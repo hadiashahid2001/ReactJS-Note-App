@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Javascript"
+		},
+		{
+			"path": "../../../../Advance JavaScript"
+		},
+		{
+			"path": "../../../../TypeScript"
+		},
+		{
+			"path": "../../../../Axios Crash Course"
+		},
+		{
+			"path": "../../../../ReactJS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Advance JavaScript"
+	}
+}
